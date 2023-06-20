@@ -28,7 +28,7 @@ def decimal_checker(num):
 class Widget(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("QGridLayout Demo")
+        self.setWindowTitle("Kalkulator")
         self.math1 = ""
         self.operator = ""
         self.math2 = ""
